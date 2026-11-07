@@ -1,4 +1,4 @@
-# ziptofileforai
+# ziptofile
 An app that converts zip files into a pdf(it takes each file from the zip and writes the location relative to the zip and the content of the file).
 
 This is free and unencumbered software released into the public domain.
